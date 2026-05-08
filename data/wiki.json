@@ -1,0 +1,120 @@
+{
+  "subjects": [
+    {
+      "id": "chin",
+      "code": "CHIN",
+      "name_en": "Chinese Language",
+      "name_zh": "中國語文",
+      "papers": [
+        {
+          "id": "chin-001",
+          "title": "2025 DSE Chinese Paper 1 - Reading",
+          "year": 2025,
+          "paper_type": "卷一 閱讀能力",
+          "description": "閱讀理解練習及答案分析",
+          "sections": [
+            {
+              "id": "chin-001-s1",
+              "title": "文言文閱讀理解",
+              "content": "本卷包含文言文及白話文閱讀理解，考核學生的閱讀理解能力。",
+              "order": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eng",
+      "code": "ENG",
+      "name_en": "English Language",
+      "name_zh": "英國語文",
+      "papers": [
+        {
+          "id": "eng-001",
+          "title": "2025 DSE English Paper 1 - Reading",
+          "year": 2025,
+          "paper_type": "Paper 1 Reading",
+          "description": "Reading comprehension practice with analysis",
+          "sections": [
+            {
+              "id": "eng-001-s1",
+              "title": "Part A: Reading Comprehension",
+              "content": "This paper tests students' ability to understand written English in various contexts.",
+              "order": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "code": "MATH",
+      "name_en": "Mathematics",
+      "name_zh": "數學",
+      "papers": []
+    },
+    {
+      "id": "csd",
+      "code": "CSD",
+      "name_en": "Citizenship and Social Development",
+      "name_zh": "公民與社會發展",
+      "papers": []
+    },
+    {
+      "id": "phy",
+      "code": "PHY",
+      "name_en": "Physics",
+      "name_zh": "物理",
+      "papers": []
+    },
+    {
+      "id": "chem",
+      "code": "CHEM",
+      "name_en": "Chemistry",
+      "name_zh": "化學",
+      "papers": []
+    },
+    {
+      "id": "bio",
+      "code": "BIO",
+      "name_en": "Biology",
+      "name_zh": "生物",
+      "papers": []
+    },
+    {
+      "id": "ict",
+      "code": "ICT",
+      "name_en": "Information and Communication Technology",
+      "name_zh": "資訊及通訊科技",
+      "papers": []
+    },
+    {
+      "id": "econ",
+      "code": "ECON",
+      "name_en": "Economics",
+      "name_zh": "經濟",
+      "papers": []
+    },
+    {
+      "id": "geog",
+      "code": "GEOG",
+      "name_en": "Geography",
+      "name_zh": "地理",
+      "papers": []
+    },
+    {
+      "id": "hist",
+      "code": "HIST",
+      "name_en": "History",
+      "name_zh": "歷史",
+      "papers": []
+    },
+    {
+      "id": "baf",
+      "code": "BAF",
+      "name_en": "Business, Accounting and Financial Studies",
+      "name_zh": "企業、會計與財務概論",
+      "papers": []
+    }
+  ]
+}
